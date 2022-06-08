@@ -1,1 +1,1 @@
-# AutoFollower
+# Instagram AutoFollower bot script
